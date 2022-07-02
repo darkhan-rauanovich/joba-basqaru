@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Internet duken jasamau",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium eos eveniet mollitia rerum voluptates ut nulla harum suscipitsdfsdfsdf, velit ex repellendus illum commodi magni ad corporis quae. Commodi, ipsam a. ",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Jumys oryn tabu",
+      "details": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium eos eveniet mollitia rerum voluptates ut nulla harum suscipit, velit ex repellendus illum commodi magni ad corporis quae. Commodi, ipsam a.",
+      "complete": true
+    },
+    {
+      "title": "Homelender",
+      "details": "Homelender smotret",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Hi man",
+      "details": "what",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Oliver",
+      "details": "Oliver leron",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
